@@ -1,5 +1,7 @@
 <h3>Fornecedor</h3>
 
+<p>Isso aqui @< ?php echo 'teste' ; ?>
+        é a mesma coisa que isso aqui @{{ echo 'teste' }}</p>
 
 @php
     // Fica aqui o PHP
